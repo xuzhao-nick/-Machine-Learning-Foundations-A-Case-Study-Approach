@@ -6,15 +6,12 @@ This course including the first step in becoming a machine learning expert. From
 ##Programming assignments
 
 ###<a href="Predicting house prices.md">Predicting house prices</a>
-
+<img src="data/images/output_16_1.png">
 In this assignment, we build a regression model for predicting house prices by including some features of the house. 
 
-<img src="data/images/output_16_1.png">
 
-
-
-###Analyzing product sentiment
-
+###<a href="Analyzing product sentiment.md">Analyzing product sentiment</a>
+<img src="data/images/evaluate_model_1.png">
 In this assignment, we focused on classifiers, applying them to analyzing product sentiment, and understanding the types of errors a classifier makes.
 
 ###Retrieving Wikipedia articles
