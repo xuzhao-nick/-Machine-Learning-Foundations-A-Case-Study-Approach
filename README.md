@@ -1,5 +1,7 @@
 # <a href="https://www.coursera.org/learn/ml-foundations/home/welcome">Machine Learning Foundations A Case Study Approach</a>
 
+<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e4/3283d04d0111e5970145eef7ee0b59/gears-818461_1280.jpg?auto=format&dpr=2&w=100&h=100&fit=crop">
+
 This course is an open course from <a href="www.coursera.org">www.coursera.org</a>, it including the first step in becoming a machine learning expert. From this course one can learn a broad range of machine learning methods for deriving intelligence from data, and by the end of the course you will be able to implement actual intelligent applications. 
 
 
