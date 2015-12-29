@@ -23,7 +23,7 @@ In this assignment, we focused on classifiers, applying them to analyzing produc
 In this assignment, we focused on using nearest neighbors and clustering to retrieve documents that interest users, by analyzing their text. We explored two document representations: word counts and TF-IDF. 
 
 
-##Recommending songs
+###Recommending songs
 
 In this assignment, we focused on building recommender systems to find products, music and movies that interest users. 
 
