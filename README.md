@@ -7,11 +7,13 @@ This course is an open course from <a href="www.coursera.org">www.coursera.org</
 
 ###<a href="Predicting house prices.md">Predicting house prices</a>
 <img src="data/images/output_16_1.png">
+
 In this assignment, we build a regression model for predicting house prices by including some features of the house. 
 
 
 ###<a href="Analyzing product sentiment.md">Analyzing product sentiment</a>
 <img src="data/images/evaluate_model_1.png">
+
 In this assignment, we focused on classifiers, applying them to analyzing product sentiment, and understanding the types of errors a classifier makes.
 
 ###Retrieving Wikipedia articles
