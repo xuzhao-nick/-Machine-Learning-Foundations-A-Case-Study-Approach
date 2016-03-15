@@ -18,16 +18,21 @@ In this assignment, we build a regression model for predicting house prices by i
 
 In this assignment, we focused on classifiers, applying them to analyzing product sentiment, and understanding the types of errors a classifier makes.
 
-###Retrieving Wikipedia articles
+###<a href="Document retrieval.md">Retrieving Wikipedia articles</a>
 
 In this assignment, we focused on using nearest neighbors and clustering to retrieve documents that interest users, by analyzing their text. We explored two document representations: word counts and TF-IDF. 
 
+<img src="data/images/obama1.jpg">
 
-###Recommending songs
+###<a href="Song Recommender.md">Recommending songs</a>
 
 In this assignment, we focused on building recommender systems to find products, music and movies that interest users. 
 
-###Deep features for image retrieval
+<img src="data/images/song.png">
+
+###<a href="Image Classification with Deep Features.md">Deep features for image retrieval</a>
 
 In this assignment, we focused on using deep learning to create non-linear features to improve the performance of machine learning. 
+
+<img src="data/images/image2.png">
 
